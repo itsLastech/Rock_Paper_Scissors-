@@ -32,3 +32,4 @@ elif Player1 == Player2:
     print("It's a tie.")
 else:
     print('HEY YOU DID SOMETHING WRONG TRY AGAIN.')
+    #QUACK
